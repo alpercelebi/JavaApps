@@ -1,1 +1,1 @@
-# myworkspace
+Examples with Java programming language
